@@ -2,5 +2,5 @@
 
 ## Todos
 
-- [ ] Figma Design for Project.
+- [X] Figma Design for Project.
 - [ ] Build Landing Page
