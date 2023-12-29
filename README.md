@@ -9,4 +9,5 @@
 - [ ] Notes Library Page
 - [ ] Real Time Chat
 - [ ] Group Discussion
-- [ ] Connecting to various APIs like Geolocation API, Auth API, UPI Auth
+- [ ] Connecting to various APIs like Geolocation API, Auth API, UPI Gateway
+- [ ] MongoDB based database
